@@ -16,5 +16,5 @@ Abaixo está o modelo conceitual desenvolvido para o banco de dados:
 
 ## Código SQL
 
-Todo o código SQL utilizado neste projeto pode ser encontrado no [repositório do GitHub](/BDRadio.sql).
+Todo o código SQL utilizado neste projeto pode ser encontrado no [Arquivo SQL](/BDRadio.sql).
 
